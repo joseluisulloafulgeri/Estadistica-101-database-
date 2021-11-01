@@ -1,6 +1,6 @@
 Numero sujeto,Género,Continente,Educación,LDLF,LDHF,HDLF,HDHF
 1,Mujer,Norteamérica,Básica,6,6,9,10
-2,Mujer,Norteamérica,Postgrado,10,,10,10
+2,Mujer,Norteamérica,Postgrado,10,5,10,10
 3,Mujer,Europa,Universitaria,5,10,10,10
 4,Mujer,Norteamérica,Universitaria,6,9,6,9
 5,Mujer,Norteamérica,Básica,3,6.5,5.5,8.5
@@ -8,7 +8,7 @@ Numero sujeto,Género,Continente,Educación,LDLF,LDHF,HDLF,HDHF
 7,Mujer,Norteamérica,Básica,10,10,10,10
 8,Mujer,Norteamérica,Media,10,10,9,10
 9,Mujer,Norteamérica,Media,9.5,9.5,6,10
-10,Mujer,Otro,Media,8.5,10,7,
+10,Mujer,Otro,Media,8.5,10,7,5
 11,Hombre,Norteamérica,Básica,0,2.5,0,0
 12,Hombre,Norteamérica,Básica,9.5,7.5,8.5,10
 13,Mujer,Norteamérica,S/E,7,8.5,6.5,8.5
@@ -38,7 +38,7 @@ Numero sujeto,Género,Continente,Educación,LDLF,LDHF,HDLF,HDHF
 39,Hombre,Norteamérica,Básica,7,7,10,9
 40,,,,8,8.5,8,9.5
 41,Mujer,Norteamérica,Básica,5,7.5,7.5,7.5
-42,Mujer,Norteamérica,Media,5,8.5,,9.5
+42,Mujer,Norteamérica,Media,5,8.5,5,9.5
 43,Mujer,Norteamérica,Básica,2,2,0,5.5
 45,Hombre,Norteamérica,partial,7.5,7,6.5,8
 46,Mujer,Norteamérica,S/E,3.5,4,1,10
@@ -57,7 +57,7 @@ Numero sujeto,Género,Continente,Educación,LDLF,LDHF,HDLF,HDHF
 60,Hombre,Norteamérica,S/E,3.5,7.5,8,8
 61,Mujer,Norteamérica,Universitaria,2.5,7.5,5,7.5
 62,Hombre,Norteamérica,S/E,3.5,9.5,3.5,8
-64,Mujer,Europa,Básica,8.5,6,,5
+64,Mujer,Europa,Básica,8.5,6,5,5
 65,Mujer,Norteamérica,S/E,3,8.5,10,2.5
 66,Hombre,Norteamérica,S/E,6,10,3,8.5
 67,Hombre,Norteamérica,Media,5.5,8,4.5,9.5
@@ -72,7 +72,7 @@ Numero sujeto,Género,Continente,Educación,LDLF,LDHF,HDLF,HDHF
 77,Mujer,Norteamérica,Básica,6,6,7.5,6
 78,Mujer,Norteamérica,S/E,5,6.5,0.5,5.5
 79,Hombre,Norteamérica,S/E,6,8,9,7
-80,Mujer,Norteamérica,S/E,1.5,,9,9.5
+80,Mujer,Norteamérica,S/E,1.5,5,9,9.5
 81,Hombre,Norteamérica,Media,5.5,4,10,5.5
 82,Mujer,Norteamérica,Media,9.5,9.5,9.5,8.5
 83,Mujer,Norteamérica,Media,8,8,8.5,10
